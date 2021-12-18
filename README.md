@@ -6,4 +6,4 @@ If you want to contact me, please leave message!💬
 
  </a> <a href="https://www.instagram.com/siho_oh/">
 <img
-src="http://img.shields.io/badge/-Instagram-red?style=flat&logo=Instagram&link=https://www.instagram.com/siho_oh/"
+src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://www.instagram.com/siho_oh/"
