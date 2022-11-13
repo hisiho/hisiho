@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hisiho!! 만나서 반가워요~(✿◡‿◡)
-- 💻 I'm currently studying c language, java, etc.
+- 💻 I'm currently studying python, c language, java.
 - 👩‍🏫 I'm teaching English to students.(my second job)
 
 If you want to contact me, please leave message!💬
